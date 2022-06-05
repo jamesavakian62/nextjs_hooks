@@ -2,7 +2,7 @@
 
 Udamy tut,  
 
-[Screen Shot 2022-06-05 at 2 24 48 PM](https://user-images.githubusercontent.com/92414210/172071325-41fa4040-b240-40f9-a649-2198a3688f69.png)
+https://nextjs-hooks-k1c5p8g5f-jamesavakian62.vercel.app/
 
 https://www.udemy.com/course/next-js-react-hooks/learn/lecture/14097510#overview
 
